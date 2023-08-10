@@ -8,7 +8,7 @@ RUN cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime \
 	&& mkdir -p /app/web
 
 COPY ./nginx.conf /etc/nginx/nginx.conf
-COPY ./* /app/web/
+COPY ./* /app/web
 
 ENV \
     PORT=8090 \
