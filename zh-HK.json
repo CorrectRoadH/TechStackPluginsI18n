@@ -1,3 +1,10 @@
 {
-    "bundler": "Bundler"
+    "bundler": "Bundler",
+    "css framework": "CSS Framework",
+    "frontend framework": "Frontend Framework",
+    "i18n": "i18n",
+    "state management": "State Management",
+    "ssr framework": "SSR Framework",
+    "web framework": "Web Framework",
+    "jwt": "JWT"
 }
