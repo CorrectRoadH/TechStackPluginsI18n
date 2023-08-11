@@ -10,5 +10,10 @@
     "state management": "State Management",
     "ssr framework": "SSR Framework",
     "web framework": "Web Framework",
-    "jwt": "JWT"
+    "jwt": "JWT",
+    "service discovery": "Service Discovery",
+    "database": "Database",
+    "ai": "AI",
+    "testing": "Testing",
+    "desktop framework": "Desktop Framework"
 }

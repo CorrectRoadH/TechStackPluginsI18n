@@ -10,5 +10,10 @@
     "state management": "状态管理",
     "ssr framework": "SSR 框架",
     "web framework": "Web 框架",
-    "jwt": "JWT"
+    "jwt": "JWT",
+    "service discovery": "服务发现",
+    "database": "数据库",
+    "ai": "AI",
+    "testing": "测试",
+    "desktop framework": "客户端"
 }
