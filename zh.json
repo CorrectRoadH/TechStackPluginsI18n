@@ -4,6 +4,7 @@
     "no-found-prompt": "没有找到该仓库的技术栈",
 
     "bundler": "打包器",
+    "package manager": "包管理器",
     "css framework": "CSS 框架",
     "frontend framework": "前端框架",
     "i18n": "i18n",

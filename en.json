@@ -4,6 +4,7 @@
     "no-found-prompt": "No found the Tech Stack of the repo",
 
     "bundler": "Bundler",
+    "package manager": "Package Manager",
     "css framework": "CSS Framework",
     "frontend framework": "Frontend Framework",
     "i18n": "i18n",
