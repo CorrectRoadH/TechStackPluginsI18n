@@ -19,5 +19,6 @@
     "desktop framework": "Desktop Framework",
     "api": "API",
     "cross platform": "跨平台",
-    "mini program": "Mini Program"
+    "mini program": "Mini Program",
+    "cicd": "CI/CD"
 }
