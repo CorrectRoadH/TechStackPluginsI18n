@@ -20,5 +20,12 @@
     "api": "API",
     "cross platform": "跨平台",
     "mini program": "小程序",
-    "cicd": "CI/CD"
+    "cicd": "CI/CD",
+    "build system": "Build System",
+    "terminal ui": "Terminal UI",
+    "visualizing": "可视化",
+    "gRPC": "gRPC",
+    "book": "Book",
+    "multimedia": "多媒体",
+    "science": "Science"
 }
