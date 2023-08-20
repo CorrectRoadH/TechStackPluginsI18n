@@ -27,5 +27,6 @@
     "gRPC": "gRPC",
     "book": "Book",
     "multimedia": "Multimedia",
-    "science": "Science"
+    "science": "Science",
+    "container": "Container"
 }
