@@ -28,5 +28,8 @@
     "book": "Book",
     "multimedia": "多媒体",
     "science": "Science",
-    "container": "容器"
+    "container": "容器",
+    "monitoring": "Monitoring",
+    "mobile framework": "移动端框架"
+
 }

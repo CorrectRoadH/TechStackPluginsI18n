@@ -28,5 +28,7 @@
     "book": "Book",
     "multimedia": "Multimedia",
     "science": "Science",
-    "container": "Container"
+    "container": "Container",
+    "monitoring": "Monitoring",
+    "mobile framework": "Mobile Framework"
 }
