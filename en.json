@@ -2,6 +2,8 @@
     "private-prompt": "The Repo is a private repo. So we can't get the Tech Stack of the repo.",
     "loading-prompt": "🏃Loading...",
     "no-found-prompt": "No found the Tech Stack of the repo",
+    "feedback-prompt": "How about the result?",
+    "feedback-thank": "Thanks for your feedback🎉",
 
     "bundler": "Bundler",
     "package manager": "Package Manager",
