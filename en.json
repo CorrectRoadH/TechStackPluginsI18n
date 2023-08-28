@@ -1,7 +1,8 @@
 {
-    "private-prompt": "The Repo is a private repo. So we can't get the Tech Stack of the repo.",
+    "private-prompt": "The repository is private. So we can't fetch the Tech Stack.",
     "loading-prompt": "🏃Loading...",
-    "no-found-prompt": "No found the Tech Stack of the repo",
+    "failed-prompt":"Failed to get the Tech Stack of the repository.",
+    "no-found-prompt": "No found the Tech Stack of the repository",
     "feedback-prompt": "How about the result?",
     "feedback-thank": "Thanks for your feedback🎉",
 
@@ -20,7 +21,7 @@
     "testing": "Testing",
     "desktop framework": "Desktop Framework",
     "api": "API",
-    "cross platform": "跨平台",
+    "cross platform": "cross platform",
     "mini program": "Mini Program",
     "cicd": "CI/CD",
     "build system": "Build System",
@@ -32,5 +33,7 @@
     "science": "Science",
     "container": "Container",
     "monitoring": "Monitoring",
-    "mobile framework": "Mobile Framework"
+    "mobile framework": "Mobile Framework",
+    "cloud platform": "Cloud Platform",
+    "message queue": "Message Queue"
 }

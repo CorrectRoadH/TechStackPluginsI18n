@@ -2,6 +2,8 @@
     "private-prompt": "この倉庫はプライベート倉庫です。そのため、この倉庫のテクノロジースタックを取得できません",
     "loading-prompt": "🏃読み込み中...",
     "no-found-prompt": "このウェアハウスのテクノロジー スタックが見つかりませんでした",
+    "feedback-prompt": "結果はどうでしたか?",
+    "feedback-thank": "フィードバックありがとうございます 🎉",
 
     "bundler": "バンドラー",
     "css framework": "CSS フレームワーク",

@@ -29,5 +29,7 @@
     "book": "Book",
     "multimedia": "多媒體",
     "science": "Science",
-    "container": "容器"
+    "container": "容器",    
+    "cloud platform": "雲平台",
+    "message queue": "消息隊列"
 }
