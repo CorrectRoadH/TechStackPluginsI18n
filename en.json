@@ -35,5 +35,9 @@
     "monitoring": "Monitoring",
     "mobile framework": "Mobile Framework",
     "cloud platform": "Cloud Platform",
-    "message queue": "Message Queue"
+    "message queue": "Message Queue",
+    "other": "Other",
+    "computing": "Computing",
+    "documentation": "Documentation",
+    "wechat":"Wechat"
 }
