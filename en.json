@@ -5,7 +5,8 @@
     "no-found-prompt": "No found the Tech Stack of the repository",
     "feedback-prompt": "How about the result?",
     "feedback-thank": "Thanks for your feedback🎉",
-
+    "expand-all": "Expand All",
+    
     "general":"General",
     "allow-share-version-info":"allow share version info",
     "allow-share-version-info-more":"the extension will report version info. It can help us to improve the extension. You can turn it off in the settings.",
@@ -21,6 +22,8 @@
 
     "enable-feedback":"enable feedback",
     "enable-feedback-more":"enable feedback button after the result",
+
+
 
     "bundler": "Bundler",
     "package manager": "Package Manager",
