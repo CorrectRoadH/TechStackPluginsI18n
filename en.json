@@ -59,5 +59,8 @@
     "computing": "Computing",
     "documentation": "Documentation",
     "wechat":"Wechat",
-    "UI Library":"UI"
+    "UI Library":"UI",
+    "DI framework":"DI framework",
+    "notification":"Notification",
+    "animation":"Animation"
 }
