@@ -6,6 +6,22 @@
     "feedback-prompt": "How about the result?",
     "feedback-thank": "Thanks for your feedback🎉",
 
+    "general":"General",
+    "allow-share-version-info":"allow share version info",
+    "allow-share-version-info-more":"the extension will report version info. It can help us to improve the extension. You can turn it off in the settings.",
+
+    "appearance":"Appearance",
+    "auto-collapse":"auto collapse",
+    "auto-collapse-more":"collapse the sidebar automatically when the techstack is very long",
+
+    "position":"Position",
+    "top":"Top",
+    "middle":"After About",
+    "bottom":"Above Language",
+
+    "enable-feedback":"enable feedback",
+    "enable-feedback-more":"enable feedback button after the result",
+
     "bundler": "Bundler",
     "package manager": "Package Manager",
     "css framework": "CSS Framework",

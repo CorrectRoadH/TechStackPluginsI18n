@@ -6,6 +6,22 @@
     "feedback-prompt": "结果怎么样？",
     "feedback-thank": "感谢您的反馈🎉",
 
+    "general":"通常",
+    "allow-share-version-info":"允许分享版本信息",
+    "allow-share-version-info-more":"插件会报告版本信息。它将能帮助我们提高插件的体验。",
+
+    "appearance":"外观",
+    "auto-collapse":"自动折叠",
+    "auto-collapse-more":"当技术栈很多时自动折叠技术栈",
+
+    "position":"位置",
+    "top":"最上方",
+    "middle":"在 About 下方",
+    "bottom":"在 Language 上方",
+
+    "enable-feedback":"启用反馈",
+    "enable-feedback-more":"启用反馈功能在结果下面",
+
     "bundler": "打包器",
     "package manager": "包管理器",
     "css framework": "CSS 框架",

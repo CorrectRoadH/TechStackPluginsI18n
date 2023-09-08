@@ -4,7 +4,23 @@
     "no-found-prompt": "沒有找到該倉庫的技術棧",
     "feedback-prompt": "结果怎么样？",
     "feedback-thank": "感谢您的反馈🎉",
-    
+
+    "general":"通常",
+    "allow-share-version-info":"允許分享版本信息",
+    "allow-share-version-info-more":"插件會報告版本信息。它將能幫助我們提高插件的體驗。",
+
+    "appearance":"外觀",
+    "auto-collapse":"自動折疊",
+    "auto-collapse-more":"當技術棧很多時自動折疊技術棧",
+
+    "position":"位置",
+    "top":"最上方",
+    "middle":"在 About 下方",
+    "bottom":"在 Language 上方",
+
+    "enable-feedback":"啟用反饋",
+    "enable-feedback-more":"啟用反饋功能在結果下面",
+        
     "bundler": "打包器",
     "css framework": "CSS 框架",
     "frontend framework": "前端框架",
