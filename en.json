@@ -1,6 +1,6 @@
 {
     "private-prompt": "The repository is private. So we can't fetch the Tech Stack.",
-    "loading-prompt": "🏃Loading...",
+    "loading-prompt": "One moment please...",
     "failed-prompt":"Failed to get the Tech Stack of the repository.",
     "no-found-prompt": "No found the Tech Stack of the repository",
     "feedback-prompt": "How about the result?",

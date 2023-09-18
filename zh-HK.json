@@ -1,6 +1,6 @@
 {
     "private-prompt": "該倉庫是私有倉庫. 所以獲取不到該倉庫的技術棧",
-    "loading-prompt": "🏃加載中...",
+    "loading-prompt": "One moment please...",
     "no-found-prompt": "沒有找到該倉庫的技術棧",
     "feedback-prompt": "结果怎么样？",
     "feedback-thank": "感谢您的反馈🎉",
