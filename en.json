@@ -9,7 +9,7 @@
     
     "general":"General",
     "allow-share-version-info":"allow share version info",
-    "allow-share-version-info-more":"the extension will report version info. It can help us to improve the extension. You can turn it off in the settings.",
+    "allow-share-version-info-more":"the extension will report version info. It can help us to improve the extension.",
 
     "appearance":"Appearance",
     "auto-collapse":"auto collapse",
@@ -62,5 +62,7 @@
     "UI Library":"UI",
     "DI framework":"DI framework",
     "notification":"Notification",
-    "animation":"Animation"
+    "animation":"Animation",
+    "security":"Security",
+    "code":"Code"
 }

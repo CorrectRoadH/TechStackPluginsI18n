@@ -60,5 +60,7 @@
     "UI Library":"UI",
     "DI framework":"依赖注入框架",
     "notification":"通知",
-    "animation":"动画"
+    "animation":"动画",
+    "security":"安全",
+    "code":"Code"
 }
